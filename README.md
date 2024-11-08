@@ -9,8 +9,8 @@ Desenvolver um pipeline de dados completo para análise de reclamações finance
 
 ### Arquitetura de Solução
 - **Fontes de Dados**:
-  - Reclamações financeiras: Dataset CSV com dados de instituições financeiras.
-  - Transparência pública: Dataset Excel com dados de reclamações detalhadas.
+  - Reclamações financeiras(Procon): Dataset CSV com dados de instituições financeiras.
+  - Procon: Dataset Excel com dados de reclamações detalhadas.
 - **Pipeline de Dados**:
   - Extração → Ingestão → Tratamento → Insights → Armazenamento.
 - **Resultados**:
